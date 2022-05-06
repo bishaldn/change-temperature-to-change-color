@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/change-temperature-to-color/static/css/main.a0c2ebc3.css",
+    "main.js": "/change-temperature-to-color/static/js/main.9395b357.js",
+    "index.html": "/change-temperature-to-color/index.html",
+    "main.a0c2ebc3.css.map": "/change-temperature-to-color/static/css/main.a0c2ebc3.css.map",
+    "main.9395b357.js.map": "/change-temperature-to-color/static/js/main.9395b357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c2ebc3.css",
+    "static/js/main.9395b357.js"
+  ]
+}
